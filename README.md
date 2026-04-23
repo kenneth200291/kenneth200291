@@ -1,16 +1,19 @@
-## Hi there 👋
+# Welcome to my GitHub 🎉
 
-<!--
-**kenneth200291/kenneth200291** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **kenneth200291**, a backend chef.
 
-Here are some ideas to get you started:
+## About
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🐛 Bug hunter by night
+- 💬 Ask me anything about code
+- 📚 Reading the source is the best documentation
+- 🛠️ Build small, ship often
+- 🔭 Currently working on personal side projects
+
+## Tech
+
+`Redis` `Sinatra` `Elasticsearch` `React`
+
+---
+
+_Future rust dev._
